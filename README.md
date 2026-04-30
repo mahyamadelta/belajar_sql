@@ -19,6 +19,7 @@ Berikut adalah daftar materi yang sudah saya pelajari:
 | Hari | Topik Utama | Status | Dokumentasi |
 | :--- | :--- | :--- | :--- |
 | **Hari 1** | Dasar SELECT, Kolom, & Uniqe Values | ✅ Selesai | [Lihat Catatan](Hari-01.md) |
+| **Hari 2** | Filtering Data (WHERE, Operators, LIKE) | ✅ Selesai | [Lihat Catatan](Hari-02.md) |
 
 **Terima kasih telah berkunjung!** Jika kamu punya saran atau ingin berdiskusi seputar SQL, jangan ragu untuk berinteraksi melalui *Issues* atau *Pull Requests*.
 
