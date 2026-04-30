@@ -12,6 +12,14 @@ Selamat datang di repositori dokumentasi belajar SQL saya! Repositori ini dibuat
 - **Editor:** MySQL Workbench
 - **Platform:** GitHub (Dokumentasi .md)
 
+## 📅 Log Belajar (Curriculum)
+
+Berikut adalah daftar materi yang sudah saya pelajari:
+
+| Hari | Topik Utama | Status | Dokumentasi |
+| :--- | :--- | :--- | :--- |
+| **Hari 1** | Dasar SELECT, Kolom, & Uniqe Values | ✅ Selesai | [Lihat Catatan](Hari-01.md) |
+
 **Terima kasih telah berkunjung!** Jika kamu punya saran atau ingin berdiskusi seputar SQL, jangan ragu untuk berinteraksi melalui *Issues* atau *Pull Requests*.
 
 *Semangat belajar data!* 🚀
